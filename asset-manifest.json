@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/client_innovposte/static/css/main.56efef12.css",
+    "main.js": "/client_innovposte/static/js/main.679cffcb.js",
+    "static/media/img.png": "/client_innovposte/static/media/img.670e4095e2c929f8e09e.png",
+    "static/media/Faq.png": "/client_innovposte/static/media/Faq.933c91a8921dd4693e1c.png",
+    "index.html": "/client_innovposte/index.html",
+    "main.56efef12.css.map": "/client_innovposte/static/css/main.56efef12.css.map",
+    "main.679cffcb.js.map": "/client_innovposte/static/js/main.679cffcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56efef12.css",
+    "static/js/main.679cffcb.js"
+  ]
+}
